@@ -26,8 +26,8 @@ List of things i will explain how to set up:
   
   1. Download and install <a href="https://rufus.ie/en/#download">Rufus</a>.
   2. Open Rufus and select your USB drive.
-  3. Click the “SELECT” button and choose the unzipped .img file you downloaded.
-  4. Click “Start” and let Rufus create the bootable USB.
+  3. Click the "SELECT" button and choose the .iso file you downloaded.
+  4. Click "Start" and let Rufus create the bootable USB.
 
   Linux (Debian and Ubuntu):
 
@@ -44,7 +44,9 @@ List of things i will explain how to set up:
      
          balena-etcher
      
-  5. Click "Flash from file" -> chose your ISO -> Click "Select target" -> chose your USB flash drive -> Click "Flash!"
+  5. Click the "Flash from file" button and choose the .iso file you downloaded.
+  6. Click the "Select target" and chose your USB flash drive
+  7. Click "Flash!" and let balenaEtcher create the bootable USB.
 
 <h2>Step 2: Install Proxmox</h2>
 
