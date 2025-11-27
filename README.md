@@ -16,7 +16,7 @@ List of things i will explain how to set up:
 
 <h3>1.1 Download Proxmox VE</h3>
 
-  1. Open your web browser and visit <a url="https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso/proxmox-ve-9-1-iso-installer">Proxmox Download site</a>
+  1. Open your web browser and visit <a href="https://www.proxmox.com/en/downloads/proxmox-virtual-environment/iso/proxmox-ve-9-1-iso-installer">Proxmox Download site</a>
 
 <h3>1.2 Create a Bootable USB Drive</h3>
 
